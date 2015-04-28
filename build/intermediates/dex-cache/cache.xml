@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-9cf42968b18e7dfc19a0ead9a259549ba6daffd6.jar" />
+    </item>
+    <item
+        jar="/home/xxx/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-d5f4b6160208d863a9be546a2af983806c906ef5.jar" />
+    </item>
+    <item
+        jar="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/classes-5e69595962e1908413e4b77d3d7badf47c731c38.jar" />
+    </item>
+    <item
+        jar="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/classes-2c130439404708a1ba0df90c13deed4a59cd3ca7.jar" />
+    </item>
+    <item
+        jar="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/classes-39e4ce86e1765907f93fe015030e20aa091256a2.jar" />
+    </item>
+
+</items>

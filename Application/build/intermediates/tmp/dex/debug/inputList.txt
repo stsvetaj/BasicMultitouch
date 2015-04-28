@@ -1,0 +1,6 @@
+/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/classes/debug
+/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-d5f4b6160208d863a9be546a2af983806c906ef5.jar
+/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/classes-39e4ce86e1765907f93fe015030e20aa091256a2.jar
+/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/classes-2c130439404708a1ba0df90c13deed4a59cd3ca7.jar
+/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-9cf42968b18e7dfc19a0ead9a259549ba6daffd6.jar
+/home/xxx/Desktop/Untitled Folder 2/BasicMultitouch/Application/build/intermediates/pre-dexed/debug/classes-5e69595962e1908413e4b77d3d7badf47c731c38.jar
